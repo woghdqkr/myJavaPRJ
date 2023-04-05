@@ -14,3 +14,6 @@ public class Ex07_10 {
         System.out.printf("1~100까지의 합(3의 배수 제외): %d\n",hap);
     }
 }
+
+
+

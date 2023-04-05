@@ -14,15 +14,15 @@ public class Ex08_04 {
 
         for(i = 0; i < 4; i++)
             System.out.printf("aa[%d] ==> %d\t",i, aa[i]);
-            System.out.printf("\n");
+        System.out.printf("\n");
 
         for(i = 0; i < 3; i++)
             System.out.printf("bb[%d] ==> %d\t",i,bb[i]);
-            System.out.printf("\n");
+        System.out.printf("\n");
 
         for(i = 0; i < 2; i++)
             System.out.printf("cc[%d] ==> %d\t",i,cc[i]);
-            System.out.printf("\n");
+        System.out.printf("\n");
 
         for(i = 0; i < 1; i++)
             System.out.printf("dd[%d] ==> %d\t",i,dd[i]);
